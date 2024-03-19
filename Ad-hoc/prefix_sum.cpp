@@ -23,5 +23,5 @@ int main()
        cin>>l>>r;
        if(l==0)cout<<pre[r]<<endl;
        else cout<<pre[r]-pre[l-1]<<endl;
-   }
+   }//https://www.spoj.com/problems/CSUMQ/
 }
