@@ -1,0 +1,20 @@
+1. Primality Test
+2. Sieve Of Eratosthenes
+3. Primet Number of Divisor
+4. Print Number of Divisor
+5. Finding Number of divisor of N
+6. Binary Exponentiation
+7. Matrix Exponentiation
+8. Euclid Algorithm of GCD
+9. Maximum GCD
+10. Segmented sieve
+11. Calculating Binomial Coefficent
+12. Extended Euclidenan Algorithm
+13. Modular Arithmetic
+14. Linear Dipohmantine Equantion
+15. Fibonacci Number in o(logn)
+17. Euler Totient Function
+18. sum of divisors
+19. Non-Deterministic Primality test
+20. Fermat Primality Test
+21. Miller_rabin Primality Test
