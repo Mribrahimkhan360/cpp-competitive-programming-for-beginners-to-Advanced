@@ -13,6 +13,7 @@
 13. Modular Arithmetic
 14. Linear Dipohmantine Equantion
 15. Fibonacci Number in o(logn)
+16. Chinese Remainder Theorem 
 17. Euler Totient Function
 18. sum of divisors
 19. Non-Deterministic Primality test
