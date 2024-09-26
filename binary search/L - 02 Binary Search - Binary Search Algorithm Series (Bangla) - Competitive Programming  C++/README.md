@@ -1,7 +1,6 @@
 <a href="https://www.youtube.com/watch?v=FidXUsTPe9A&list=PL0G2Ga9ALv6nHc7gPqQiJmJiJ4pJlouNc&index=2&ab_channel=wrongsubmission">L - 02: Binary Search | Binary Search Algorithm Series (Bangla) | Competitive Programming | C++
 </a>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FidXUsTPe9A?si=O6FNwC2UeeavbmRT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <code>
     #include<bits/stdc++.h>
