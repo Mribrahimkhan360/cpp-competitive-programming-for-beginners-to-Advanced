@@ -1,10 +1,10 @@
 #include <bits/stdc++.h>
 using namespace std;
-vector<int>v[1000];
-int vis[1000];
+vector<int>v[100005];
+int vis[100005];
 void dfs(int node){
     vis[node]=1;
-    for(auto child: v[node]){
+    for(int child: v[node]){
         if(vis[child]==0){
             dfs(child);
         }
@@ -20,7 +20,7 @@ int main() {
        v[y].push_back(x);
    }
    int cnt=0;
-   for(int i=0;i<=n;i++){
+   for(int i=1;i<=n;i++){
        if(vis[i]==0){
            cnt++;
            dfs(i);
