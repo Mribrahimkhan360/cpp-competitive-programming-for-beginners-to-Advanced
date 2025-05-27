@@ -10,7 +10,7 @@ This is similar to the concept of encapsulation in OOP, where internal data and 
 using namespace std;
 class Student{
 private :
-    string name;
+    string name; // এটি লুকানো (private) - বাইরে থেকে সরাসরি নাম পরিবর্তন করা যাবে না।
 public :
     void setName(string x)
     {
@@ -24,8 +24,8 @@ public :
 int main()
 {
     Student s1;
-    s1.setName("hello");
-    cout<<s1.getName()<<endl;
+    s1.setName("hello"); // setName() দিয়ে নাম সেট করা হয়েছে
+    cout<<s1.getName()<<endl; // getName() দিয়ে নাম দেখা যাচ্ছে
 
 
 }
