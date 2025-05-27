@@ -5,6 +5,13 @@
 
 Think of it like a medicine capsule — the outer shell is visible, but the internal contents are hidden.
 This is similar to the concept of encapsulation in OOP, where internal data and logic are protected from external access.
+
+সারাংশ (বাংলায়):
+Encapsulation মানে হলো ডেটা এবং ফাংশনকে একসাথে রাখা।
+
+এতে বাইরের কোড সরাসরি ডেটা বদলাতে পারে না।
+
+এতে প্রোগ্রাম নিরাপদ, সহজে ব্যবস্থাপনাযোগ্য এবং ভবিষ্যতে সহজে পরিবর্তনযোগ্য হয়।
 */
 #include<bits/stdc++.h>
 using namespace std;
